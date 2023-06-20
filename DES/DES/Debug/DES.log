@@ -1,0 +1,4 @@
+﻿  DES.cpp
+D:\visual studio\cryptology\DES\DES.cpp(269,55): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\visual studio\cryptology\DES\DES.cpp(308,55): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  DES.vcxproj -> D:\visual studio\cryptology\Debug\DES.exe

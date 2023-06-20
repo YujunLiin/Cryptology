@@ -1,0 +1,6 @@
+﻿  单表置换密码.cpp
+D:\visual studio\cryptology\单表置换\单表置换密码.cpp(10,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\visual studio\cryptology\单表置换\单表置换密码.cpp(41,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\visual studio\cryptology\单表置换\单表置换密码.cpp(62,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\visual studio\cryptology\单表置换\单表置换密码.cpp(86,20): warning C4018: “<”: 有符号/无符号不匹配
+  单表置换.vcxproj -> D:\visual studio\cryptology\Debug\单表置换.exe
